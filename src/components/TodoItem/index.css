@@ -1,0 +1,25 @@
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.title {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-right: 20px;
+}
+
+.button {
+  background-color: transparent;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: #ff0b37;
+  color: #ff0b37;
+  font-family: 'Roboto';
+  font-size: 10px;
+  width: 50px;
+  height: 24px;
+}
